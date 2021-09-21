@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "mybilliards",
+  "id": "9b3d1952-08fa-47d8-b119-4c73e413d242",
+  "version": "2.4.0",
+  "isNew": false
+}
